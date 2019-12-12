@@ -1,0 +1,12 @@
+.container {
+  padding: 40px;
+}
+
+.icon_div {
+  text-align: center;
+  margin-top: -1rem;
+}
+
+.icon_div > i {
+  font-size: 40px;
+}
