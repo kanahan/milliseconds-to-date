@@ -1,6 +1,6 @@
 # Milliseconds to Date
 
-### Live Demo in <a href="https://cdpn.io/kanahan/debug/vYEKLLm/LQAExyNYewZr" target="_blank">codepen.io</a>
+### Live Demo in <a href="https://codepen.io/kanahan/full/vYEKLLm" target="_blank">codepen.io</a>
 
 &nbsp;
 
